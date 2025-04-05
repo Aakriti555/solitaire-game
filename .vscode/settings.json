@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "SOLITAIRE.sln"
+    "dotnet.defaultSolution": "solitaire-game.sln"
 }
